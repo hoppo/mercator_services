@@ -1,7 +1,7 @@
 ---
 
 name: enrichmentanalysis
-version: 0.2
+version: 0.1
 description: Passthrough adapter for mapman enrichment analysis Web Services RESTful API
 type: passthrough
 url: http://www.plabipd.de/services/araport/mapman/enrichmentAnalysis
