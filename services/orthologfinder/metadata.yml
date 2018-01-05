@@ -1,0 +1,27 @@
+---
+
+name: orthologfinder
+version: 0.1
+description: Passthrough adapter for mapman orthlog finder Services RESTful API
+type: passthrough
+url: http://www.csbdb.de/cgi-bin/saultigh.cgi 
+whitelist:
+    - www.csbdb.de
+tags:
+    - 'mapman'
+    - 'gene annotation'
+    - 'orthlog finder'
+    - 'mapman bins'
+authors:
+    - name: Marie Bolger
+      email: m.bolger@fz-juelich.de
+      sponsor_organization: Forschungszentrum Juelich
+      sponsor_uri: http://www.plabipd.de/portal/web/guest/mercator-ii-alpha-version-
+sources:
+    - title: mapman 
+      description: mapman gene classification
+      sponsor_organization_name: Forschungszentrum Juelich.de
+      sponsor_uri: www.usadellab.org
+      provider_name: Bjoern Usadel
+      provider_email: usadel@bio1.rwth-aachen.de
+      uri: mapman.gabipd.org
