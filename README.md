@@ -1,1 +1,2 @@
-# mercator_services
+# mercator_services 
+services for the mercator namespace
